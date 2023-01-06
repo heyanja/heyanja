@@ -1,5 +1,6 @@
 - 👋 Hi, my name is Anna
--iOS Developer
+
+- iOS Developer
 
 - 🌱 I’m currently learning Swift
 - 📫 You can reach me by mail: anjacodes@gmail.com
